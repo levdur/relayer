@@ -1,0 +1,16 @@
+   {
+  "type": "cosmos",
+  "value": {
+    "key": "Levdur",
+    "chain-id": "STRIDE-TESTNET-4",
+    "rpc-addr": "http://157.245.74.171:26657",
+    "account-prefix": "stride",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.001ustrd",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}                             
